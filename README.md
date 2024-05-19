@@ -21,7 +21,12 @@
 - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5)
 - [Machine Learning for visual understanding](http://viplab.snu.ac.kr/viplab/courses/mlvu_online_2021/index.html)
 
-# 
+# Percepception and 3D
+- [3D Computer Vision](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [DeepRob: Deep Learning for Robot Perception](https://deeprob.org/w23/)
+- [MIT 6.801 Machine Vision, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O)
+- [Computer Vision in Robotics ](https://www.youtube.com/playlist?list=PLEvAmOZOOI2b-tolfGQR-ZkqqSYkcNh8S)
+  
 
 # Generative Modeling - Advanced
 - [A Course on Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [Website](https://elad.cs.technion.ac.il/236610-diffusion-models/)

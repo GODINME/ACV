@@ -1,6 +1,9 @@
 # CSCD608 – Advanced  Computer Vision
 
 # Diffusion models
+- [Mathematics of Generative Modelling](https://www.youtube.com/playlist?list=PLSPVGYqSR1PTDHtx2mN2_D9SEj25NJrMU) || [CSE 599: Generative Models for Notes](https://courses.cs.washington.edu/courses/cse599i/20au/)
+
+
 - [Seminar on Diffusion Models - Technion](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [Website](https://elad.cs.technion.ac.il/236610-diffusion-models/)
 - [CS886  —  Diffusion models for generation, inference and optimization](https://cs.uwaterloo.ca/~y328yu/mycourses/886/index.html)
   
@@ -46,8 +49,6 @@
 - [CAP6412 – Spring 2024 Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/)
 - [Advanced Deep Learning for Computer Vision: Visual Computing (ADL4CV) (IN2390)](https://niessner.github.io/ADL4CV/)
 - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
-- [CSE 599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)
-
 
 # Generative models
 - [OptiMaL](https://www.youtube.com/@mathisallyouneed6187/playlists) | [Github](https://github.com/misterpawan/MGM-course) | [topics](https://faculty.iiit.ac.in/~pawan.kumar/myhomepage/courses/cs7.508/)

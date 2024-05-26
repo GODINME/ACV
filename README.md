@@ -1,5 +1,11 @@
 # CSCD608 – Advanced  Computer Vision
 
+# Diffusion models
+- [Seminar on Diffusion Models - Technion](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [Website](https://elad.cs.technion.ac.il/236610-diffusion-models/)
+- [CS886  —  Diffusion models for generation, inference and optimization](https://cs.uwaterloo.ca/~y328yu/mycourses/886/index.html)
+  
+### Mathematics and Probability Needed For Understanding Diffusion Models
+- [Stochastic Calculus Notes](https://math.nyu.edu/~goodman/teaching/StochCalc2022/StochasticCalculus.html)
 
 # Classical Computer Vision to befor Deep Learning Erra
 - [Computer Vision - Fundamentatls - UC Berkely](https://farid.berkeley.edu/learnComputerVision/)
@@ -34,17 +40,20 @@
   
 
 # Advanced Computer Vision 
-- [A Course on Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [Website](https://elad.cs.technion.ac.il/236610-diffusion-models/)
-- [OptiMaL](https://www.youtube.com/@mathisallyouneed6187/playlists) | [Github](https://github.com/misterpawan/MGM-course) | [topics](https://faculty.iiit.ac.in/~pawan.kumar/myhomepage/courses/cs7.508/)
-- [Computational Creativity](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BX-uwS15xlbi7KUcgKUmWNL) | [Website](https://richradke.github.io/computationalcreativity/)
-- [Chat GPT-X and Generative Models for EM Systems Design](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e) | [Generative AI and Engineering Applications Lectures](https://tera.kaist.ac.kr/youtube-lectures/generative-ai-lectures)
-- [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) | [Website](https://kuleshov-group.github.io/dgm-website/)
-- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu/) | [Youtube](https://www.youtube.com/@Red_Blue_Green/playlists)
-- [Deep Unsupervised Learning -- Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
-- [CSE 599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)
+- [Chat GPT-X and Generative Models for EM Systems Design](https://www.youtube.com/playlist?list=PLv7izQ1itK4XwMgUJMJtGOe5jTtnBPe5e) | [Generative AI and Engineering Applications Lectures](https://tera.kaist.ac.kr/youtube-lectures/generative-ai-lectures)
+- [Computational Creativity](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BX-uwS15xlbi7KUcgKUmWNL) | [Website](https://richradke.github.io/computationalcreativity/)
 - [CAP6412 – Spring 2024 Advanced Computer Vision](https://www.crcv.ucf.edu/courses/cap6412-spring-2024/)
 - [Advanced Deep Learning for Computer Vision: Visual Computing (ADL4CV) (IN2390)](https://niessner.github.io/ADL4CV/)
+- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+- [CSE 599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)
+
+
+# Generative models
+- [OptiMaL](https://www.youtube.com/@mathisallyouneed6187/playlists) | [Github](https://github.com/misterpawan/MGM-course) | [topics](https://faculty.iiit.ac.in/~pawan.kumar/myhomepage/courses/cs7.508/)
+- [Deep Unsupervised Learning -- Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) | [Website](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
+- [Deep Generative Models (Cornell Tech CS 6785, Spring 2023)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) | [Website](https://kuleshov-group.github.io/dgm-website/)
+
 
 # PHD Opportunities
 - [Machine Learning Group - Technical University of Berlin BIFOLD – Berlin Institute for the Foundations of Learning and Data](https://web.ml.tu-berlin.de/jobs/)
